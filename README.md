@@ -202,7 +202,7 @@ This project is built for **educational and research purposes only**. Stock pric
 
 ## 👤 Author
 
-**Aditya Yashovardhan**
+**Aditya Yashovardhan** **Daksh Gurjar** **Dhruv Mahalle**
 
 ---
 
